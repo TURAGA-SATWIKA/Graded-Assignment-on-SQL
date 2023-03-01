@@ -1,0 +1,1 @@
+SELECT DISTINCT job_name FROM employee_details;
