@@ -1,6 +1,6 @@
 
 INSERT INTO employee_details VALUES (1001, 'John Smith', 'Marketing Manager', 2001, '01-jan-2001', 80000, 101);
-INSERT INTO employee_details VALUES  (1002, 'Jane Doe', 'Sales Representative', 2001, '01-jan-2001', 50000, 102);
+INSERT INTO employee_details VALUES  (1002, 'Raj', 'Sales Representative', 2001, '01-jan-2001', 50000, 102);
 INSERT INTO employee_details VALUES  (1003, 'Robert Johnson', 'Software Engineer', 2002, '01-jan-2001', 90000, 103);
 INSERT INTO employee_details VALUES  (1004, 'Samantha Lee', 'HR Manager', 2003, '01-jan-2001', 75000, 104);
 INSERT INTO employee_details VALUES  (1005, 'David Kim', 'Financial Analyst', 2003, '01-jan-2001', 65000, 105);
